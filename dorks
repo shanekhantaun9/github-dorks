@@ -1,4 +1,4 @@
-Google Dorks for sensitive information disclose
+Github Dorks for sensitive information disclose
 
 filename:.npmrc _auth	npm registry authentication data
 filename:.dockercfg auth	docker registry authentication data
